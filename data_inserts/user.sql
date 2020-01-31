@@ -1,0 +1,10 @@
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('andywarol@gmail.com', 'ANDY', 'WAROL', '06/08/1928');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('brianjones@gmail.com', 'BRIAN', 'JONES', '28/02/1942');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('cristianoronaldo@gmail.com', 'CRISTIANO', 'RONALDO', '05/02/1985');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('davidcopperfield@gmail.com', 'DAVID', 'COPPERFIELD', '16/09/1956');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('eugeniasilva@gmail.com', 'EUGENIA', 'SILVA', '13/01/1976');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('francocafferata@gmail.com', 'FRANCO', 'CAFFERATA', '13/08/1926');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('gloriastefan@gmail.com', 'GLORIA', 'ESTEFAN', '01/09/1957');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('hugosanchez@gmail.com', 'HUGO', 'SANCHEZ', '11/07/1958');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('isabellarossellini@gmail.com', 'ISABELLA', 'RESSELLINI', '18/06/1952');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('jenniferhweitt@gmail.com', 'JENNIFER', 'HEWITT', '21/02/1979');
