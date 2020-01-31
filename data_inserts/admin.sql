@@ -1,0 +1,3 @@
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('belwalterv@gmail.com', 'WALTER', 'BEL', '21/02/1979');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('fravegaleandro@gmail.com', 'LEANDRO', 'FRAVEGA', '21/02/1979');
+INSERT INTO finaluser (email, first_name, last_name, birthdate)	VALUES('leandrojaviercepeda@gmail.com', 'LEANDRO', 'CEPEDA', '21/02/1979');
